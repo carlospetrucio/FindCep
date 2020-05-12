@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="url"><img src="https://i.ibb.co/BNTkw7B/FINDCEP-CAPA.png" align="center" height="417"></a>
+  <a href="url"><img src="https://i.ibb.co/Wt45FWP/FINDCEP-logotipo.png" align="center" height="417"></a>
 </p>
 
 # FindCep
