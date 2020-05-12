@@ -1,0 +1,23 @@
+{
+    "name": "carlospetrucio/findcep",
+    "description": "BuscarCEP",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "CarlosPetrucio",
+            "email": "50377984+carlospetrucio@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Search": "src/"
+        },
+        "psr-4": {
+            "carlospetrucio\\findcep\\": "src/"
+        }
+    }
+}
