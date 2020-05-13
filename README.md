@@ -4,6 +4,6 @@
 
 # FindCep
 ##
-## Busca de CEP online, utilizando o ViaCEP - Webservice CEP e IBGE gratuito.
+## Library criada para busca de CEP online, utilizando o ViaCEP - Webservice CEP e IBGE gratuito.
 
 
